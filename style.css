@@ -1,6 +1,11 @@
 #main {
   margin: 0 auto;
   width:1000px;
+  background-color: white;
+}
+
+body {
+  background-color: black;
 }
 
 
